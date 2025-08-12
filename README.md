@@ -22,19 +22,19 @@ A professional **Invoice Generator** built with **Python (Tkinter)** and **FPDF*
 ```bash
 pip install fpdf tk
 ```
-##🚀 Usage
-##1️⃣ Clone the repository
+## 🚀 Usage
+## 1️⃣ Clone the repository
 ```bash
 
 git clone https://github.com/yourusername/invoice-generator.git
 cd invoice-generator
 ```
-##2️⃣ Run the app
+## 2️⃣ Run the app
 ```bash
 
 python invoice_app.py
 ```
-##3️⃣ Generate your invoice
-Enter customer and item details
-Click Generate Invoice
-Your PDF will be saved in the project folder
+## 3️⃣ Generate your invoice
+- Enter customer and item details
+- Click Generate Invoice
+- Your PDF will be saved in the project folder
